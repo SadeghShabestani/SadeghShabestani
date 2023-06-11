@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on django, react js, sqlite, linux, html, css<br>💬 Ask me about sadeghshhs@gmail.com<br>⚡ Fun fact
+🔭 I’m currently working on django, react js, sqlite, linux, html, css
 
 
 # 💻 Tech Stack:
